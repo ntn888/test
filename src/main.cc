@@ -25,6 +25,6 @@ int main() {
 		cin >> input;
 	}
 
-	cout << "Exiting!" << endl;
+	cout << "Exiting!!\]" << endl;
 	return 0;
 }
