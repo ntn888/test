@@ -25,6 +25,6 @@ int main() {
 		cin >> input;
 	}
 
-	cout << "Thank you. Exiting." << endl;
+	cout << "Exiting!" << endl;
 	return 0;
 }
